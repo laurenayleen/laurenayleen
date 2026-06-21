@@ -9,7 +9,7 @@
 
 -Java, C++, Javascript, html/css
 
--Find me here: ([https://github.com/laurenayleen](https://github.com/laurenayleen)/)
+-Find me here: [https://github.com/laurenayleen](https://github.com/laurenayleen)
 
 -[My LinkedIn](https://www.linkedin.com/in/lauren-sanders-627b61240/)
 
